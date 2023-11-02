@@ -10,6 +10,5 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <br/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
-<br/>
-<h2>Realizo alguns projetos pessoais utilizando as tecnologias descritas acima, como criação de sites responsivos e páginas interativas. Tenho interesse em me tornar um programador FullStack.</h2>
+</div> <br/>
+Realizo alguns projetos pessoais utilizando as tecnologias descritas acima, como criação de sites responsivos e páginas interativas. Tenho interesse em me tornar um programador FullStack.
