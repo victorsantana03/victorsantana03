@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Victor 👋🏻</h1>
+<h2>Olá, eu sou o Victor 👋🏻</h2>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantana03&layout=compact)
