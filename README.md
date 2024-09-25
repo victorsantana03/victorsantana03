@@ -1,9 +1,9 @@
 <h2>Olá, eu sou o Victor 👋🏻</h2>
 
 <ul>
-  <li>📌 Guarulhos, SP</li>
-  <li>📚 Graduado em Análise e Desenvolvimento de Sistemas </li>
-  <li>👨🏻‍💻 Desenvolvedor Frontend</li>
+  <li><strong>📌 Guarulhos, SP</strong></li>
+  <li><strong>📚 Graduado em Análise e Desenvolvimento de Sistemas</strong> </li>
+  <li><strong>👨🏻‍💻 Desenvolvedor Frontend</strong></li>
 </ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantana03&layout=compact)
