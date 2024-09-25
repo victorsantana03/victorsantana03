@@ -15,3 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,windows,vite,pycharm,netlify,github,figma)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-alves-santana-111440196/)
+
+## Entre em Contato Comigo
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
