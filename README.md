@@ -2,6 +2,8 @@
 
 <ul>
   <li>📌 Guarulhos, SP</li>
+  <li>📚 Graduado em Análise e Desenvolvimento de Sistemas </li>
+  <li>👨🏻‍💻 Desenvolvedor Frontend</li>
 </ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantana03&layout=compact)
