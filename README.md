@@ -1,5 +1,8 @@
 <h2>Olá, eu sou o Victor 👋🏻</h2>
 
+<ul>
+  <li>📌 Guarulhos, SP</li>
+</ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantana03&layout=compact)
 
