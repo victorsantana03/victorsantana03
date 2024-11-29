@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,tailwind,git,py)](https://skillicons.dev)
 
 ## Minhas Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=vscode,windows,vite,pycharm,netlify,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,windows,vite,pycharm,netlify,github,figma,notion)](https://skillicons.dev)
 
 ## Entre em Contato Comigo
 <div>
