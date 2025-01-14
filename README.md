@@ -18,7 +18,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantana03&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantana03&layout=compact&theme=dracula)
 
 ## Tecnologias Que Utilizo
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,tailwind,git,mongo)](https://skillicons.dev)
