@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantana03&layout=compact)
 
 ## Tecnologias Que Utilizo
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,tailwind,git,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,tailwind,git,mongo)](https://skillicons.dev)
 
 ## Minhas Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vscode,windows,vite,pycharm,netlify,github,figma,notion)](https://skillicons.dev)
