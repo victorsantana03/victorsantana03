@@ -1,5 +1,5 @@
 <h2>Bem-Vindo ao meu GitHub ✌🏽</h2>
-<h4>Olá 👋🏻! Me chamo Victor, tenho 21 anos e sou um Desenvolvedor Front-End. 💻  </h4>
+<h4>Olá 👋🏻! Me chamo Victor, tenho 21 anos e sou um Desenvolvedor Full-Stack. 💻  </h4>
 
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px">
