@@ -33,6 +33,6 @@
 
 # Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorsantana03&repo=Portfolio_React&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/victorsantana03/Portfolio_React)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorsantana03&repo=Airbnb-React&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/victorsantana03/Portfolio_React)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorsantana03&repo=Airbnb-React&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/victorsantana03/next15-ecommerce)
 
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Gif Mario no PC" align="center"></img>
