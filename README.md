@@ -15,10 +15,7 @@
 </div>
 <br/>
 
-
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victorsantana03&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantana03&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Tecnologias Que Utilizo
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,nextjs,ts,nodejs,express,git,mongo)](https://skillicons.dev)
